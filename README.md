@@ -63,11 +63,11 @@ ________________________________________________________________________________
 
 _Message for Six :_
 
-<img src="https://github.com/IITH-CS1023/cs1023-sdf-project-team-13/blob/main/Textures/Six%20message.png" width="250">
+<img src="https://github.com/CS20BTECH11054/cs1023-sdf-project-team-13/blob/main/Textures/Six%20message.png" width="250">
 
 _Message for wicket:_
 
-<img src="https://github.com/IITH-CS1023/cs1023-sdf-project-team-13/blob/main/Textures/Wicket%20message.jpg" width="250">
+<img src="https://github.com/CS20BTECH11054/cs1023-sdf-project-team-13/blob/main/Textures/Wicket%20message.jpg" width="250">
 
 _Game Conclusion:_
 If the player achieves the target before runs out of wickets and balls He wins
